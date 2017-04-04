@@ -1,0 +1,7 @@
+# do not touch this line
+configVersion: 2
+
+name: recog-ifttt
+description: Integration between MATRIX Face Recognition and IFTTT
+keywords: ''
+displayName: Recog Ifttt
